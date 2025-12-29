@@ -1,9 +1,7 @@
 # MapboxLargeMapTileExporter
 
- ![](tokyo.webp)
-
 <p align="center">
-  <img src="tokyo.webp" width="500" />
+  <img src="tokyo.webp" width="750" />
 </p>
 
 
