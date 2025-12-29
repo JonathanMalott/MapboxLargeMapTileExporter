@@ -1,5 +1,9 @@
 # MapboxLargeMapTileExporter
 
+| | |
+|---|---|
+| ![](images/manilla.png) | ![](images/carlsbad.png)  |
+
 A Python utility for exporting large, high-resolution static maps from Mapbox by
 downloading individual raster tiles, stitching them together, and cropping the
 result to an exact geographic bounding box.
