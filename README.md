@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| ![](images/manilla.png) | ![](images/carlsbad.png)  |
+| ![](tokyo.webp) | ![](images/carlsbad.png)  |
 
 A Python utility for exporting large, high-resolution static maps from Mapbox by
 downloading individual raster tiles, stitching them together, and cropping the
