@@ -1,8 +1,11 @@
 # MapboxLargeMapTileExporter
 
-| | |
-|---|---|
-| ![](tokyo.webp) | ![](images/carlsbad.png)  |
+ ![](tokyo.webp)
+
+<p align="center">
+  <img src="tokyo.webp" width="500" />
+</p>
+
 
 A Python utility for exporting large, high-resolution static maps from Mapbox by
 downloading individual raster tiles, stitching them together, and cropping the
